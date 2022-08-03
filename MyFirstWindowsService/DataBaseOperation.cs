@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
@@ -15,7 +15,7 @@ namespace MyFirstWindowsService
         private static int createdById = Convert.ToInt32(ConfigurationManager.AppSettings["CreatedById"]);
 
 
-        private static string connectionString = ConfigurationManager.ConnectionStrings["JulyDB"].ConnectionString;
+        private static string connectionString = ConfigurationManager.ConnectionStrings["TestDB"].ConnectionString;
         static SqlConnection conn = null;
 
         public static void OpenConnection()
