@@ -1,0 +1,13 @@
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\log4net.dll
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\log4net.xml
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.AssemblyReference.cache
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CopyComplete
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\rasel\source\repos\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb

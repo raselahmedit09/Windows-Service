@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1a185b5-230f-40ef-8b15-f368921fe3f3": {
+      "ProjectGuid": "f1a185b5-230f-40ef-8b15-f368921fe3f3",
+      "DisplayName": "MyFirstWindowsService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
